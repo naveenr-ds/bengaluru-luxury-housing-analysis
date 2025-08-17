@@ -39,7 +39,6 @@ This project builds a **real estate analytics solution** for Bengaluru’s luxur
 ## 📂 Repository Structure 
  ┣ 📁 data              # Raw & cleaned datasets
  ┣ 📁 notebooks         # Jupyter notebooks for cleaning & EDA
- ┣ 📁 sql_scripts       # SQL table creation & queries
  ┣ 📁 powerbi_dashboard # PBIX files
  ┣ 📄 README.md         # Project documentation
  ┗ 📄 requirements.txt  # Python dependencies
